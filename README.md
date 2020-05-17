@@ -1,6 +1,6 @@
   # Assignment 3
   
-## Firstly download dataset from that link  https://www.kaggle.com/oddrationale/mnist-in-csv 
+#### Firstly download dataset from that link  https://www.kaggle.com/oddrationale/mnist-in-csv 
 
 ## Building machine learning individual models 
 
